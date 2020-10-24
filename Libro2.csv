@@ -1,0 +1,5 @@
+﻿instancia;Tiempo UNSAT;Tiempo SAT;Resultado clausula;Identificador
+0;0,0025;0,0028;SI;red
+1;0,0035;0,0054;NO ;green
+2;0,0054;0,0025;SI;red
+3;0,0028;0,0035;NO ;green
